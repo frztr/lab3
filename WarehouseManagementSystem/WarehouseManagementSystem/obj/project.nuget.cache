@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ea1YeaKEdoY=",
+  "success": true,
+  "projectFilePath": "/home/forezzzter/Documents/Магистратура/ЛР Технологии коллективной разработки информационных систем/Лабораторная работа 3/lab3/WarehouseManagementSystem/WarehouseManagementSystem/WarehouseManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/forezzzter/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.13/microsoft.extensions.dependencyinjection.10.0.13.nupkg.sha512",
+    "/home/forezzzter/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.13/microsoft.extensions.dependencyinjection.abstractions.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
